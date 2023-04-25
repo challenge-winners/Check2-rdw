@@ -1,0 +1,28 @@
+@import url('cabecalho.css');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: #05090E;
+}
+
+.rodape {
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: aliceblue;
+    
+}
+
+.rodape h2{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
