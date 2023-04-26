@@ -1,0 +1,40 @@
+
+.cabecalho{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+.cabecalho img{
+    width: 10%;
+    display: block;
+}
+
+.cabecalho nav{
+    padding: 0 10%;
+    
+}
+.cabecalho ul{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+    
+}
+
+.cabecalho li{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 8%;
+   
+}
+
+
+.cabecalho a{
+    color: #F3F3F3;
+    text-decoration: none;
+    font-style: normal;
+    font-weight: 200;
+    font-size: 30px;
+}
