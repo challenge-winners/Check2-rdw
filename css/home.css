@@ -1,0 +1,30 @@
+
+.conteudo{
+    display: flex;
+    padding-top: 10%;
+    justify-content: space-around;
+}
+
+.conteudo div{
+    display: flex;
+    flex-direction: column;
+}
+
+.conteudo h2{
+    display: flex;
+    justify-content: center;
+    color: #F3F3F3;
+    font-family: 'Inter', sans-serif;
+}
+
+.conteudo figure{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.conteudo p{
+    color: #F3F3F3;
+}
+.conteudo img{
+    width: 60%;
+}
