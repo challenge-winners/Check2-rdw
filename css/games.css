@@ -5,12 +5,18 @@
     align-items: center;
 }
 
-.conteudogames figure {
+.conteudogames div h2{
     color: #2793ff;
+    display: flex;
+    justify-content:center;
+    padding: 1%;
+}
+.conteudogames figure {
     font-style: normal;
     font-weight: 200;
     font-size: 30px;
     display: flex;
+   
     
 }
 .conteudogames figcaption{
@@ -18,7 +24,11 @@
     font-style: normal;
     font-weight: 200;
     font-size: 18px;
+    display: flex;
+    padding: 2%;  
 }
-.conteudogames img{
-    width: 10%;
+.conteudogames figure img{
+    width: 20%;
+    height: 20%;
+    padding: 2%;
 }
