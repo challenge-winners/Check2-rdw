@@ -5,7 +5,7 @@
     align-items: center;
 }
 .conteudomobile div h2{
-    color: #014776;
+    color: #019798;
     display: flex;
     justify-content:center;
     padding: 1%;
@@ -25,8 +25,8 @@
     padding: 2%;  
 }
 .conteudomobile figure img{
-    width: 50%;
-    height: 50%;
+    width: 70%;
+    height: 70%;
     padding: 2%;
     min-width: 10%;
 }
