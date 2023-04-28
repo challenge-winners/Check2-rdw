@@ -3,6 +3,7 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
+    flex-wrap: wrap;
 }
 
 
@@ -14,22 +15,20 @@
 .cabecalho nav{
     padding: 0 10%;
     
+    
 }
 .cabecalho ul{
     display: flex;
     justify-content: space-around;
     align-items: center;
     list-style: none;
-    
 }
 
 .cabecalho li{
     display: flex;
     justify-content: space-between;
-    padding: 0 8%;
-   
+    padding: 0 8%;    
 }
-
 
 .cabecalho a{
     color: #F3F3F3;
@@ -38,3 +37,4 @@
     font-weight: 200;
     font-size: 30px;
 }
+

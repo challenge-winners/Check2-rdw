@@ -1,0 +1,18 @@
+@media (max-width:826px){
+    .cabecalho{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        align-items: center;
+        flex-wrap: wrap;
+    }
+
+    .cabecalho ul{
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        list-style: none;
+        flex-direction: column;
+        flex-wrap: wrap;
+    }   
+}
