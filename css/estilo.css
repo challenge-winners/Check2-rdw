@@ -4,6 +4,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
 @import url('games.css');
 @import url('tecnologia.css');
+@import url('mobile.css');
 
 * {
     box-sizing: border-box;
