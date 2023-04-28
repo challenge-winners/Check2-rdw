@@ -1,7 +1,7 @@
 
 .conteudo{
     display: flex;
-    padding-top: 10%;
+    padding-top: 5%;
     justify-content: space-around;
 }
 
@@ -13,7 +13,7 @@
 .conteudo h2{
     display: flex;
     justify-content: center;
-    color: #F3F3F3;
+    color: #ffffff;
     font-family: 'Inter', sans-serif;
 }
 
@@ -23,8 +23,10 @@
     align-items: center;
 }
 .conteudo p{
-    color: #F3F3F3;
+    color: #aaaaaa;
 }
-.conteudo img{
+.conteudo a, img{
     width: 60%;
+    display: flex;
+    justify-content: center;
 }
